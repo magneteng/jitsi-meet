@@ -68,6 +68,7 @@ const WHITELISTED_KEYS = [
     'gatherStats',
     'googleApiApplicationClientID',
     'hiddenDomain',
+    'hiddenJid',
     'hosts',
     'iAmRecorder',
     'iAmSipGateway',
